@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624218493 source:c:\users\iori9\desktop\programacion_orientada_objetos\lenguajes\c\codigo\consola\usodelistas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
